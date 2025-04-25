@@ -1,7 +1,7 @@
 # Image Quality Assessment for Facial Image Authenticity Verification (FIAV)
 FIAV (Face Image Assessment for Verification) assesses image quality features to differentiate real from AI-generated face images. The key steps of FIAV method are :
 
-    - **Input: Facial Image**  
+- **Input: Facial Image**  
   Accepts any facial image (real or AI-generated) for analysis.
 
 - **Feature Extraction**  
@@ -16,4 +16,4 @@ FIAV (Face Image Assessment for Verification) assesses image quality features to
 - **Output: Real/Fake Decision**  
   Binary output: Real (label ‘1’) / AI-generated (label ‘0’).
 
-
+![Texte](FIAV_approach.png)
